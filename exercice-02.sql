@@ -59,6 +59,9 @@ UPDATE tag
 SET name = "Terminal Bash", description = "Le terminal Bash est l'interface en ligne de commande par défaut sous Linux."
 WHERE tag.name = "Bash"
 
+
+-- Travail en cours
+
 -- Exo 2.6
 -- Supprimez la relation entre un student et un tag :
 -- - student : Zacharie Evrard
