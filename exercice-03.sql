@@ -65,6 +65,8 @@ AND start_date >= "2021-07-01"
 -- - dont la date de création est postérieure au 01/01/2021 inclus
 -- - ET dont la date de début est antérieure au 01/07/2021 inclus
 
+-- ?
+
 -- Exo 3.7
 -- Listez les students :
 -- - dont l'email contient la chaîne de caractères `.fr` ET la date de création est antérieure au 10/01/2021 inclus
